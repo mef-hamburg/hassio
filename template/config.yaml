@@ -6,7 +6,7 @@ base: &base
   boot: auto
   arch:
     - amd64
-    - armv7
+  #  - armv7
     - aarch64
   # Uses Hass.io API (auth)
   hassio_api: true
